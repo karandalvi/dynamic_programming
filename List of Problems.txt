@@ -1,0 +1,27 @@
+Maximum Subarray Problem
+Longest Common Subsequence
+Longest Palindromic Subsequence
+Longest Non Repeating Subsequence
+Longest Increasing Subsequence
+Rod Cutting Problem
+Knapsack Problem
+Minimum String Edit 
+Coin Change 
+Wine Selection 
+Word Break 
+Egg Dropping
+Text Justification
+Weighted Job Scheduling
+Maximum Sum Rectangular Sub-Matrix in a Matrix
+Box Stacking Problem
+Minimum Cost Path
+Buy / Sell Stock
+Minimum Jump to Reach End
+Wildcard Matching
+Regular Expression
+Burst Balloon
+Longest Bitonic Sequence
+Number of Possible BST given Preorder Sequence
+Parenthesization to evaluate to true
+Temple Offerings
+Matrix Chain Multiplication
